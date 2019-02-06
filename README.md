@@ -27,14 +27,8 @@ Luckily, we were able to trace multiple attacks on our servers during the electi
 
    Where **$SERVER_IP$** - IP of your host server. 
 
-## Flag:
 
-Flag:
+## Writeups:
 
-```
-ctfzone{b3_c@R3fuL_w17h_C@cH1ng}
-```
-
-## Solution:
-
-Will be here later ;)
+https://blog.veryhax.ninja/blog/ctfzone17-timehackers/
+https://docs.google.com/document/d/1Oj8fzdzMjbP32598onO9NyKLOexdiQLDGCLR8DDAeyM/edit
