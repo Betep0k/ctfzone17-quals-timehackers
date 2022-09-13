@@ -30,5 +30,5 @@ Luckily, we were able to trace multiple attacks on our servers during the electi
 
 ## Writeups:
 
-https://blog.veryhax.ninja/blog/ctfzone17-timehackers/
+https://blog.veryhax.ninja/blog/ctfzone-2017-timehackers/
 https://docs.google.com/document/d/1Oj8fzdzMjbP32598onO9NyKLOexdiQLDGCLR8DDAeyM/edit
